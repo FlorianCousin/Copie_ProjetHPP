@@ -1,0 +1,100 @@
+2010-02-09T04:05:20.777+0000|529590|2886|LOL|Baoping Wu|-1|529360
+2010-02-09T04:20:53.281+0000|529589|2886|cool|Baoping Wu|-1|529360
+2010-02-09T05:19:19.802+0000|529591|2886|ok|Baoping Wu|-1|529360
+2010-02-09T06:08:38.206+0000|529594|3633|right|Jun Wu|-1|529360
+2010-02-09T06:31:37.964+0000|529592|2886|About Niccolò Machiavelli, a diplomat, political philosopher, playwright, and a civi.|Baoping Wu|-1|529360
+2010-02-09T07:19:44.946+0000|529595|2886|good|Baoping Wu|529592|-1
+2010-02-09T07:27:33.879+0000|529593|2886|duh|Baoping Wu|-1|529360
+2010-02-09T08:17:12.246+0000|529588|2886|cool|Baoping Wu|-1|529360
+2010-02-12T18:19:57.527+0000|702748|143|cool|Maria Alkaios|-1|701070
+2010-02-12T18:23:49.210+0000|702760|143|About Pope Benedict . About Andrew Lloyd W. About John Gielgud, . About Ringo Starr.|Maria Alkaios|-1|701070
+2010-02-12T18:38:09.433+0000|702747|3825|About John How. About Pope Ben. About Albert E. About Karl Mar. About Lord Byr. About M.|Richard Richter|-1|701070
+2010-02-12T18:50:35.967+0000|702757|143|ok|Maria Alkaios|702747|-1
+2010-02-12T20:37:02.578+0000|702759|143|no way!|Maria Alkaios|702747|-1
+2010-02-12T22:05:25.252+0000|702755|143|About John Howar. About Pope Bened. About George Fri. About Clint East. About Michael Bl. About .|Maria Alkaios|-1|701070
+2010-02-13T01:11:10.978+0000|702752|143|no|Maria Alkaios|-1|701070
+2010-02-13T07:15:06.967+0000|702754|143|thx|Maria Alkaios|-1|701070
+2010-02-13T08:12:06.616+0000|702750|3825|great|Richard Richter|702747|-1
+2010-02-13T09:58:17.093+0000|702753|3825|ok|Richard Richter|702747|-1
+2010-02-13T10:43:48.770+0000|702756|143|About Pope Be. About Karl Ma. About Lord By. About Ben Jon. About Michael. About G.|Maria Alkaios|702747|-1
+2010-02-13T10:44:00.373+0000|702758|143|duh|Maria Alkaios|702756|-1
+2010-02-13T13:18:00.586+0000|702749|3825|great|Richard Richter|702747|-1
+2010-02-13T14:18:54.127+0000|702751|3825|thanks|Richard Richter|-1|701070
+2010-02-16T06:20:23.580+0000|571690|1259|right|Mee Vongvichit|-1|571477
+2010-02-16T06:51:56.345+0000|571692|1259|duh|Mee Vongvichit|-1|571477
+2010-02-16T07:54:09.449+0000|571685|1259|fine|Mee Vongvichit|-1|571477
+2010-02-16T15:18:18.135+0000|571688|1259|no way!|Mee Vongvichit|-1|571477
+2010-02-16T18:56:02.640+0000|571686|1259|About Lleyton Hew. About John Coltra. About Herman Melv. About Rihanna, re. About Chasi.|Mee Vongvichit|-1|571477
+2010-02-16T20:02:22.856+0000|1301996|2608|great|Wei Zhu|-1|1301406
+2010-02-16T20:58:24.974+0000|1301990|2608|maybe|Wei Zhu|-1|1301406
+2010-02-16T23:58:35.901+0000|571691|1259|cool|Mee Vongvichit|571686|-1
+2010-02-17T00:41:03.042+0000|571687|1259|I see|Mee Vongvichit|571686|-1
+2010-02-17T01:43:11.311+0000|571702|1259|fine|Mee Vongvichit|571686|-1
+2010-02-17T03:20:32.096+0000|571689|1259|yes|Mee Vongvichit|571686|-1
+2010-02-17T07:29:53.261+0000|571693|1259|About Lleyton . About John Col. About Weird Al. About Lionel R. About Herman M. About De.|Mee Vongvichit|571686|-1
+2010-02-17T07:54:19.736+0000|571701|1259|About Bono, is omnivorous and i. About John Coltrane, awarded th. About Weird Al Yankovic, no lon. About Angelina Jolie, Croft in . About Johnny Depp, as th.|Mee Vongvichit|571693|-1
+2010-02-17T08:00:46.596+0000|1301998|2608|no|Wei Zhu|-1|1301406
+2010-02-17T08:46:36.199+0000|1301991|2608|About Napoleon, coalition with Napoleon. T. About Al Green, Roll Hall of Fame inducte.|Wei Zhu|-1|1301406
+2010-02-17T09:04:56.318+0000|1302000|2608|About Napoleon, as this was wh. About Robert F. Kennedy, Gate . About Al Green, hit single.|Wei Zhu|1301991|-1
+2010-02-17T13:24:08.859+0000|571696|1259|About Lley. About Robe. About John. About Tenn. About Lion. About Herm. About Nigh. Abo.|Mee Vongvichit|571693|-1
+2010-02-17T13:40:56.769+0000|571698|1259|fine|Mee Vongvichit|571686|-1
+2010-02-17T15:49:36.620+0000|571694|1259|About The Dutchess, . About Brazil, larges. About Bette Midler S. About De Do Do.|Mee Vongvichit|571693|-1
+2010-02-17T16:23:36.752+0000|571699|1259|roflol|Mee Vongvichit|571693|-1
+2010-02-17T16:42:21.872+0000|1301994|2608|yes|Wei Zhu|1301991|-1
+2010-02-17T18:09:15.281+0000|1301992|2608|About Napoleon, later in . About Charles I of Englan. About Al Green, Stone .|Wei Zhu|1301991|-1
+2010-02-17T18:11:39.964+0000|1301989|2608|About Napoleon, of France. She beat the fir. About Robert the Bruce, of England. He cla.|Wei Zhu|-1|1301406
+2010-02-17T19:37:00.055+0000|571700|1259|duh|Mee Vongvichit|571694|-1
+2010-02-17T20:11:14.774+0000|1301997|2608|cool|Wei Zhu|1301992|-1
+2010-02-17T22:35:27.012+0000|1301999|2608|roflol|Wei Zhu|1301989|-1
+2010-02-18T03:33:04.830+0000|1302001|2608|About Charles I of Engla. About Kate Bush, solo fe. About Maggie May, and .|Wei Zhu|1301992|-1
+2010-02-18T03:37:42.074+0000|1302002|2608|About Charles I . About Kate Bush,. About Otis Reddi. About Polythene . About Maggie.|Wei Zhu|1302001|-1
+2010-02-18T05:23:13.933+0000|1301993|2608|About Charles I of. About Jimi Hendrix. About Al Green, to. About Sinner M.|Wei Zhu|1301992|-1
+2010-02-18T05:38:05.444+0000|1301995|2608|maybe|Wei Zhu|1301993|-1
+2010-02-18T06:04:18.197+0000|571697|1259|thx|Mee Vongvichit|571693|-1
+2010-02-18T07:42:04.437+0000|571695|1259|cool|Mee Vongvichit|571694|-1
+2010-02-18T12:54:09.214+0000|1302003|2608|thx|Wei Zhu|1301993|-1
+2010-02-18T15:24:05.713+0000|706670|459|About Friedr. About Nicolá. About David . About Willia. About Adam S. About The Ba. About Lindsa.|Jharana Bajracharya Rashid Shrestha|-1|705199
+2010-02-18T15:46:12.356+0000|706669|459|duh|Jharana Bajracharya Rashid Shrestha|-1|705199
+2010-02-18T17:10:26.307+0000|707069|459|no|Jharana Bajracharya Rashid Shrestha|-1|705247
+2010-02-18T17:16:33.372+0000|706676|459|great|Jharana Bajracharya Rashid Shrestha|706670|-1
+2010-02-18T20:09:07.559+0000|707067|459|About George. About Nicolá. About Miles . About Univer. About Songs . Abou.|Jharana Bajracharya Rashid Shrestha|-1|705247
+2010-02-18T20:16:10.437+0000|706559|459|fine|Jharana Bajracharya Rashid Shrestha|-1|705185
+2010-02-18T21:12:52.357+0000|706560|459|right|Jharana Bajracharya Rashid Shrestha|-1|705185
+2010-02-18T21:14:01.743+0000|706573|459|About Arnold Sch. About George Ber. About George W. . About Shimmy Dis. About Al.|Jharana Bajracharya Rashid Shrestha|-1|705185
+2010-02-18T22:19:47.710+0000|706675|459|thanks|Jharana Bajracharya Rashid Shrestha|706670|-1
+2010-02-18T22:27:12.726+0000|706620|459|About Bryan Adams,. About Gordon Brown. About 50 Cent, 200. About Björk, Th.|Jharana Bajracharya Rashid Shrestha|-1|705193
+2010-02-18T22:29:41.594+0000|706677|459|duh|Jharana Bajracharya Rashid Shrestha|706670|-1
+2010-02-18T23:47:23.152+0000|706672|459|maybe|Jharana Bajracharya Rashid Shrestha|706670|-1
+2010-02-19T01:37:19.286+0000|707066|459|no way!|Jharana Bajracharya Rashid Shrestha|-1|705247
+2010-02-19T02:41:55.624+0000|706561|459|yes|Jharana Bajracharya Rashid Shrestha|-1|705185
+2010-02-19T03:22:00.727+0000|706563|459|LOL|Jharana Bajracharya Rashid Shrestha|-1|705185
+2010-02-19T05:03:42.278+0000|706924|459|right|Jharana Bajracharya Rashid Shrestha|-1|705228
+2010-02-19T05:14:40.965+0000|706565|459|About Robbie. About Willia. About John G. About Weird . About Ice Cu. About Shimmy. Ab.|Jharana Bajracharya Rashid Shrestha|-1|705185
+2010-02-19T06:43:32.612+0000|706248|459|About James Brown, recording artist. He is the originator of funk music and is a major f.|Jharana Bajracharya Rashid Shrestha|-1|705149
+2010-02-19T06:58:26.538+0000|706257|459|Dream a Little Dream of Me is a song with music by Fabian Andre and Wilbur Schwandt and lyrics by Gus Kahn. About Dream a Littl.|Jharana Bajracharya Rashid Shrestha|706248|-1
+2010-02-19T07:05:13.666+0000|706260|459|cool|Jharana Bajracharya Rashid Shrestha|-1|705149
+2010-02-19T07:09:36.404+0000|706562|459|roflol|Jharana Bajracharya Rashid Shrestha|-1|705185
+2010-02-19T07:21:33.715+0000|706253|459|About Gilbert du Motier, marquis de Lafayette, Battle of Brandywine, he still managed t.|Jharana Bajracharya Rashid Shrestha|-1|705149
+2010-02-19T07:35:10.990+0000|706252|459|thx|Jharana Bajracharya Rashid Shrestha|-1|705149
+2010-02-19T07:46:23.984+0000|706570|459|About Albert, . About Nicolás . About John Pee. About Louis Ar. About Ice Cube. Abou.|Jharana Bajracharya Rashid Shrestha|-1|705185
+2010-02-19T09:02:59.156+0000|706256|459|About Gilbert du Motier, marquis de Laf. About Michael Bloomberg, firm. A Demo.|Jharana Bajracharya Rashid Shrestha|706253|-1
+2010-02-19T09:20:05.655+0000|706255|459|cool|Jharana Bajracharya Rashid Shrestha|706253|-1
+2010-02-19T10:36:02.051+0000|706564|459|thanks|Jharana Bajracharya Rashid Shrestha|-1|705185
+2010-02-19T10:40:39.725+0000|707070|459|right|Jharana Bajracharya Rashid Shrestha|707067|-1
+2010-02-19T10:56:00.955+0000|706566|459|About Rob. About Wil. About Wei. About Ice. About Mar. About Afg. About Swi. About Sh.|Jharana Bajracharya Rashid Shrestha|706565|-1
+2010-02-19T11:47:13.205+0000|706254|459|About Plato, letters have been ascribe. About Cary Grant, an Honorary Oscar .|Jharana Bajracharya Rashid Shrestha|-1|705149
+2010-02-19T11:52:01.152+0000|706262|459|I see|Jharana Bajracharya Rashid Shrestha|706254|-1
+2010-02-19T12:38:24.680+0000|706261|459|About Felix Mendelssohn, in English-speaking countries, as Felix Mendelssohn (3 February 1809 –.|Jharana Bajracharya Rashid Shrestha|706257|-1
+2010-02-19T13:42:04.014+0000|706671|459|About Fri. About Dav. About Bey. About Muh. About Ada. About Naz. About Lin. .|Jharana Bajracharya Rashid Shrestha|706670|-1
+2010-02-19T14:13:25.451+0000|706678|459|good|Jharana Bajracharya Rashid Shrestha|706671|-1
+2010-02-19T14:14:10.528+0000|726488|4755|maybe|Rudolf Wagner|-1|723282
+2010-02-19T14:15:37.752+0000|726484|1103|About Wolfgang Am. About Nikolai Rim. About Charlie Cha. About Rush Limbau. About Rock .|Mehmet Ayhan|-1|723282
+2010-02-19T14:32:41.021+0000|726485|1103|About Wolfgang Amade. About Augustus, by h. About Pope John Paul. About Charlie Ch.|Mehmet Ayhan|-1|723282
+2010-02-19T14:54:49.335+0000|726490|1103|I see|Mehmet Ayhan|726485|-1
+2010-02-19T15:07:51.832+0000|706250|459|I see|Jharana Bajracharya Rashid Shrestha|706248|-1
+2010-02-19T15:21:07.925+0000|707065|459|About Nicolás Almagro, is . About Weird Al Yankovic, &. About How Do You Do It?.|Jharana Bajracharya Rashid Shrestha|-1|705247
+2010-02-19T15:21:21.233+0000|707071|459|thx|Jharana Bajracharya Rashid Shrestha|707065|-1
+2010-02-19T15:36:34.867+0000|707072|459|roflol|Jharana Bajracharya Rashid Shrestha|707065|-1
+2010-02-19T15:38:35.442+0000|707073|459|cool|Jharana Bajracharya Rashid Shrestha|707065|-1
+2010-02-19T17:05:54.721+0000|726495|1103|About Wolfgang Amadeu. About Gustav Mahler, . About Augustus, remai. About Charlie C.|Mehmet Ayhan|-1|723282
+2010-02-19T17:37:56.669+0000|726496|1103|ok|Mehmet Ayhan|-1|723282

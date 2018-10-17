@@ -1,0 +1,3 @@
+Nombre d'entités de texte par test : 1177303
+Moyenne de temps par iteration : 6986389ms
+Moyenne debit : 168 textEntity/s
